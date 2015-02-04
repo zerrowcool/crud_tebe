@@ -36,7 +36,7 @@
                      
                     <div class="form-horizontal" >
                       <div class="control-group">
-                        <label class="control-label">Name</label>
+                        <label class="control-label">Nama</label>
                         <div class="controls">
                             <label class="checkbox">
                                 <?php echo $data['name'];?>
@@ -44,7 +44,7 @@
                         </div>
                       </div>
                       <div class="control-group">
-                        <label class="control-label">Email Address</label>
+                        <label class="control-label">Email</label>
                         <div class="controls">
                             <label class="checkbox">
                                 <?php echo $data['email'];?>
@@ -52,7 +52,7 @@
                         </div>
                       </div>
                       <div class="control-group">
-                        <label class="control-label">Mobile Number</label>
+                        <label class="control-label">No. HP</label>
                         <div class="controls">
                             <label class="checkbox">
                                 <?php echo $data['mobile'];?>
