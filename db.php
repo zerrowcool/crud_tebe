@@ -1,4 +1,5 @@
 <?php
+//Pembuatan class menggunakan tehnik PDO
 class Database
 {
     private static $dbName = 'tictac' ;
